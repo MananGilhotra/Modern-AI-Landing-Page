@@ -538,7 +538,7 @@ header a:hover{
 }
 
 
-/* .chatApp-section .left-container h1{
+.chatApp-section .left-container h1{
     font-size: 40px;
     max-width: 650px;
     margin-top: 0;
@@ -568,7 +568,7 @@ header a:hover{
     margin-top: 40px;
     width: 130px;
     height: 40px;
-} */
+}
 
 .chatApp-section .right-container{
     display: flex;
@@ -588,9 +588,6 @@ header a:hover{
     color: rgb(127, 109, 135);
     line-height: 35px;
 }
-
-
-/* GENERATIVE SECTION */
 .generative-section{
     position: relative;
     display: flex;
@@ -1073,9 +1070,7 @@ footer .box-icons a:hover{
     }
 }
 
-
-/* AUTOBLUR ANIMATION */
-/* .autoBlur{
+.autoBlur{
     animation: autoBlurAnimation linear both;
     animation-timeline: view();
 }
@@ -1092,10 +1087,9 @@ footer .box-icons a:hover{
         filter: blur(40px);
         opacity: 0;
     }
-} */
+}
 
 
-/* SIDEBAR SECTION */
 .menu-icon{
     font-size: 35px;
     cursor: pointer;
@@ -1219,7 +1213,7 @@ footer .box-icons a:hover{
 
 
 
-/* TABLET RESPONSIVE */
+/* RESPONSIVE */
 @media screen and (max-width: 1200px){
     header{
         padding: 10px 10px;
